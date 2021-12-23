@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Restring</string>
+    <string name="title">Title.</string>
+    <string name="text_view_text">TextView Text English</string>
+    <string name="subtitle">Subtitle.</string>
+    <string name="untranslated"><b>Untranslated</b></string>
+    <string name="languageIdentifier">Actual Language</string>
+    <string name="simpleText">Simple small text with the resources outside of the values file</string>
+    <string name="simpleTextUntranslated">Simple small text with resources inside the values file, untraslated in remote</string>
+    <string name="buttonList">Button List</string>
+    <string name="go_to_fragment">Go to Fragment</string>
+    <string name="useless_button">Useless Button</string>
+
+</resources>

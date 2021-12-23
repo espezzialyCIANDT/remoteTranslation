@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="title"></string>
+    <string name="text_view_text"></string>
+    <string name="subtitle"></string>
+    <string name="untranslated"><b></b></string>
+    <string name="languageIdentifier"></string>
+    <string name="simpleText"></string>
+    <string name="simpleTextUntranslated"></string>
+    <string name="go_to_fragment"></string>
+    <string name="useless_button"></string>
+    <string name="buttonList"></string>
+</resources>
